@@ -1,4 +1,4 @@
-<h2>Fullstack Developer</h2>
+<h2>Fullstack Development and DevOps Engeneering</h2>
 
 Hi! I'm Kristijan
 
