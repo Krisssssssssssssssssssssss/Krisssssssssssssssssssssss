@@ -1,6 +1,6 @@
 <h2>Fullstack Development and DevOps Engeneering</h2>
 
-Hi! I'm Kristijan
+Hi! I'm Kristijan!
 
 
 I’m passionate about playing chess, along with other interests like playing football, learning the guitar, and—last but certainly not least—programming. What started as a hobby has evolved into a lasting passion. 
